@@ -1,7 +1,7 @@
 {
   "name": "new-age",
   "title": "New Age",
-  "version": "3.3.7",
+  "version": "4.1.3",
   "homepage": "http://startbootstrap.com/template-overviews/new-age",
   "author": "Start Bootstrap",
   "license": {
@@ -9,7 +9,7 @@
     "url": "https://github.com/ismailtasdelen"
   },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.1.3",
     "browser-sync": "^2.13.0",
     "font-awesome": "^4.6.3",
     "gulp": "^3.9.1",
